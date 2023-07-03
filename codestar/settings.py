@@ -32,7 +32,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["solaris-news.herokuapp.com", '8000-qburn93-solair-gq4c0igg06j.ws-eu98.gitpod.io', 'localhost']
+ALLOWED_HOSTS = ["solaris-news.herokuapp.com", '8000-qburn93-solair-wlkvedgxjf4.ws-eu101.gitpod.io', 'localhost']
 
 
 # Application definition
